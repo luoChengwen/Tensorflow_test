@@ -11,14 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case_study/people_similarity/fnd04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="551">
+              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case_study/recommender_system/recommender.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,11 +76,12 @@
         <option value="$PROJECT_DIR$/coding_test/shopee.py" />
         <option value="$PROJECT_DIR$/case_study/load_data.py" />
         <option value="$PROJECT_DIR$/case_study/people_similarity/fnd04.py" />
+        <option value="$PROJECT_DIR$/case_study/recommender_system/recommender.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
+    <option name="x" value="-5" />
     <option name="y" value="23" />
     <option name="width" value="1765" />
     <option name="height" value="877" />
@@ -87,17 +100,6 @@
               <item name="Tensorflow_cert" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_cert" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tensorflow_cert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_cert" type="462c0819:PsiDirectoryNode" />
-              <item name="case_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_cert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_cert" type="462c0819:PsiDirectoryNode" />
-              <item name="case_study" type="462c0819:PsiDirectoryNode" />
-              <item name="people_similarity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -108,7 +110,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -129,28 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fnd04">
-    <configuration name="NLP_imdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tensorflow_cert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_model/assets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_model/assets/NLP_imdb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.recommender">
     <configuration name="NLP_sarcasm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow_cert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,6 +157,9 @@
       <module name="tensorflow_cert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case_study/people_similarity" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -211,6 +195,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recommender" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_cert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case_study/recommender_system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case_study/recommender_system/recommender.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow_cert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recommender" />
+        <item itemvalue="Python.recommender" />
         <item itemvalue="Python.fnd04" />
         <item itemvalue="Python.load_data" />
         <item itemvalue="Python.load_data" />
-        <item itemvalue="Python.load_data" />
-        <item itemvalue="Python.NLP_sarcasm" />
       </list>
     </recent_temporary>
   </component>
@@ -256,10 +258,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1765" height="877" extended-state="0" />
+    <frame x="-5" y="23" width="1765" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70235544" visible="true" weight="0.16915138" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70235544" visible="true" weight="0.1456422" />
       <window_info id="Structure" order="1" sideWeight="0.29764453" side_tool="true" weight="0.15768349" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,8 +273,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4994266" weight="0.32939634" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4988532" weight="0.32939634" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.21158257" side_tool="true" visible="true" weight="0.5577428" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.78841746" visible="true" weight="0.5577428" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.21330275" side_tool="true" visible="true" weight="0.48425198" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.78669727" visible="true" weight="0.48425198" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,10 +362,20 @@
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/case_study/people_similarity/fnd04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="551">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case_study/recommender_system/recommender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
